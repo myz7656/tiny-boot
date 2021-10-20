@@ -1,0 +1,3 @@
+rootProject.name = "tiny-boot"
+include ':app'
+include ':boot'
